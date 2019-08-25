@@ -7,11 +7,12 @@ class App {
   public static $app;
   
   public function __construct() {
-    $query = $_SERVER['REQUEST_URI'];
     session_start();
     self::$app = Registry::instance();
     $this->getParams();
     new ErrorHandler();
+    $query = $this->getQuery();
+    Router::dispatch($query);
   }
 
   protected function getParams() {
@@ -21,5 +22,13 @@ class App {
         self::$app->setProperty($k, $v);
       }
     }
+  }
+
+  protected function getQuery() {
+    $query = $_SERVER['REQUEST_URI'];
+    $query = substr($query, 1);  
+    $query = rtrim($query, '/');
+
+    return $query;
   }
 }

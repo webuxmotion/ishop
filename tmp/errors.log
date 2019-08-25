@@ -34,3 +34,177 @@
 ============
 [2019-08-25 09:36:52] Message: Page not found | File: /var/www/html/public/index.php | Line: 8 
 ============
+[2019-08-25 09:40:50] Message: Page not found | File: /var/www/html/public/index.php | Line: 8 
+============
+[2019-08-25 09:41:21] Message: Page not found | File: /var/www/html/public/index.php | Line: 8 
+============
+[2019-08-25 09:41:22] Message: Page not found | File: /var/www/html/public/index.php | Line: 8 
+============
+[2019-08-25 09:41:22] Message: Page not found | File: /var/www/html/public/index.php | Line: 8 
+============
+[2019-08-25 09:42:20] Message: Page not found | File: /var/www/html/public/index.php | Line: 8 
+============
+[2019-08-25 12:05:51] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:06:00] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:06:07] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:06:29] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:06:30] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:06:30] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:06:30] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:06:30] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:06:31] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:06:31] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:06:42] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:06:44] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:09:52] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:18:05] Message: Call to undefined function ishop\class_exixts() | File: /var/www/html/vendor/ishop/core/Router.php | Line: 25 
+============
+[2019-08-25 12:18:15] Message: Controller app\controllers\admin\PageNewController did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 28 
+============
+[2019-08-25 12:18:47] Message: Controller <b>app\controllers\admin\PageNewController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 28 
+============
+[2019-08-25 12:22:11] Message: Controller <b>app\controllers\admin\PageNewController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 30 
+============
+[2019-08-25 12:22:41] Message: Class 'app\controllers\admin\PageNewController' not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:22:48] Message: Class 'app\controllers\admin\PageNewdfController' not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:23:02] Message: Controller <b>app\controllers\admin\PageNewdfController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 30 
+============
+[2019-08-25 12:23:08] Message: Class 'app\controllers\admin\PageNewdfController' not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:23:24] Message: Class 'app\controllers\admin\PageNewdfController' not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:23:29] Message: Class 'app\controllers\admin\SdfController' not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:23:32] Message: Class 'app\controllers\admin\SdfController' not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:23:35] Message: Class 'app\controllers\MainController' not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:23:42] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 33 
+============
+[2019-08-25 12:24:14] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 33 
+============
+[2019-08-25 12:24:14] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 33 
+============
+[2019-08-25 12:24:16] Message: Call to undefined method ishop\Router::uppserCamelCase() | File: /var/www/html/vendor/ishop/core/Router.php | Line: 73 
+============
+[2019-08-25 12:24:20] Message: Call to undefined method ishop\Router::uppserCamelCase() | File: /var/www/html/vendor/ishop/core/Router.php | Line: 73 
+============
+[2019-08-25 12:25:12] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 33 
+============
+[2019-08-25 12:27:19] Message: Method <b>app\controllers\admin\SdfController::editPageAction</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 32 
+============
+[2019-08-25 12:27:20] Message: Method <b>app\controllers\admin\SdfController::editPageAction</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 32 
+============
+[2019-08-25 12:27:32] Message: Class 'app\controllers\admin\SdfController' not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:27:33] Message: Class 'app\controllers\admin\SdfController' not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:28:53] Message: Class 'app\controllers\admin\SdfController' not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:28:54] Message: Class 'app\controllers\admin\SdfController' not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:28:59] Message: Class 'app\controllers\admin\MainController' not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 26 
+============
+[2019-08-25 12:29:05] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:23] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:24] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:24] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 38 
+============
+[2019-08-25 12:29:41] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:42] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:42] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:42] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:42] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:43] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:43] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:43] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:43] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:43] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:43] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:43] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:43] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:43] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:44] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:44] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:44] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:44] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:44] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:44] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:44] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:44] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:44] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:44] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:45] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:45] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:45] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:56] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:29:58] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:30:12] Message: Undefined constant 'app\controllers' | File: /var/www/html/app/controllers/MainController.php | Line: 3 
+============
+[2019-08-25 12:30:14] Message: Undefined constant 'app\controllers' | File: /var/www/html/app/controllers/MainController.php | Line: 3 
+============
+[2019-08-25 12:30:16] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:31:11] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:31:12] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:31:13] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:31:13] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 38 
+============
+[2019-08-25 12:31:13] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:31:14] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 38 
+============
+[2019-08-25 12:32:04] Message: Controller <b>app\controllers\MainController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
+[2019-08-25 12:39:07] Message: Controller <b>app\controllers\PageController</b> did not found! | File: /var/www/html/vendor/ishop/core/Router.php | Line: 35 
+============
