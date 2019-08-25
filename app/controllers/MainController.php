@@ -2,9 +2,9 @@
 
 namespace app\controllers;
 
-class MainController {
+class MainController extends AppController {
 
   public function indexAction() {
-    echo __METHOD__;
+    debug($this->route);
   }
 }
