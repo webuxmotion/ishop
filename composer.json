@@ -1,0 +1,14 @@
+{
+  "name": "webuxmotion/ishop",
+  "authors": [
+    {
+      "name": "Andrii Pereverziev",
+      "email": "pereverziev.andrii@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload" : {
+    "psr-4": {
+    }
+  }
+}
