@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-  <title>Default Layout</title>
+  <?=$this->getMeta()?>
 </head>
 <body>
   <h1>Layout</h1>

@@ -222,3 +222,5 @@
 ============
 [2019-08-26 09:06:12] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 39 
 ============
+[2019-08-26 09:28:28] Message: Class 'app\controllers\App' not found | File: /var/www/html/app/controllers/MainController.php | Line: 8 
+============
