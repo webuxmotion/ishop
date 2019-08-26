@@ -210,3 +210,15 @@
 ============
 [2019-08-25 13:54:37] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 38 
 ============
+[2019-08-26 09:05:16] Message: Cannot instantiate abstract class ishop\base\View | File: /var/www/html/vendor/ishop/core/base/Controller.php | Line: 25 
+============
+[2019-08-26 09:05:17] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 39 
+============
+[2019-08-26 09:05:31] Message: Cannot instantiate abstract class ishop\base\View | File: /var/www/html/vendor/ishop/core/base/Controller.php | Line: 25 
+============
+[2019-08-26 09:06:12] Message: Cannot instantiate abstract class ishop\base\View | File: /var/www/html/vendor/ishop/core/base/Controller.php | Line: 25 
+============
+[2019-08-26 09:06:12] Message: Cannot instantiate abstract class ishop\base\View | File: /var/www/html/vendor/ishop/core/base/Controller.php | Line: 25 
+============
+[2019-08-26 09:06:12] Message: Page not found | File: /var/www/html/vendor/ishop/core/Router.php | Line: 39 
+============
